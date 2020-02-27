@@ -1,0 +1,14 @@
+{
+  "name": "jest-course",
+  "version": "1.0.0",
+  "description": "pruebas unitarias con Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "PurpleDoll",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
