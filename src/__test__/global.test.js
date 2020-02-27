@@ -56,7 +56,7 @@ test('Probar async/await', async () => {
     expect(string).toBe('aloH');
 });
 
-afterEach(() => console.log('Después de cada prueba'))
+/* afterEach(() => console.log('Después de cada prueba'))
 //Permite correr código que se necesita después de cada prueba
 
 afterAll(() => console.log('Después de todas las pruebas'));
@@ -66,4 +66,4 @@ beforeEach(() => console.log('Antes de cada prueba'));
 // Permite correr --- antes de cada una de las las pruebas
 
 beforeAll(() => console.log('Antes de todas las pruebas'));
-//Permite correr -- antes de todas las pruebas
+//Permite correr -- antes de todas las pruebas */
